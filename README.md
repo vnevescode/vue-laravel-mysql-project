@@ -2,7 +2,7 @@
 
 This project has made with Vue-Laravel and MySQL
 
-It is a simple dashboard with two api calls ( one external to jsonPlaceHolder e another to my Laravel Api)
+It is a simple dashboard with two api calls (One external to jsonPlaceHolder e another to my Laravel Api)
 
 ![image](https://user-images.githubusercontent.com/11055113/202689630-010a6501-1292-4070-89de-daec0b75fe68.png)
 
